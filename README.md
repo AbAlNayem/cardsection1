@@ -1,3 +1,3 @@
-# cardsection1
+# cardsection
 team section design html and css
 card section: https://abalnayem.github.io/cardsection1/
